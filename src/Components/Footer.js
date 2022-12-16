@@ -14,7 +14,7 @@ function Footer() {
           <p className="footerP">
             Email:{" "}
             <a href="mailto:bruce@firstclasshomemortgage.com">
-            bruce@firstclasshomemortgage.com
+              bruce@firstclasshomemortgage.com
             </a>
           </p>
         </div>
@@ -22,7 +22,7 @@ function Footer() {
           <h3 className="footerH3">License Info</h3>
           <p className="footerP">Bruce Ingram (NMLS #1845144)</p>
           <p className="footerP">
-            Regulated by the Colorado Division of Real Estate NMLS #1843
+            Regulated by State of Utah Division of Real Estate NMLS #1843
           </p>
         </div>
         <div className="footerGridItem">
